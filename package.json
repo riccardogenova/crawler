@@ -1,0 +1,14 @@
+{
+  "name": "crawler",
+  "description": "crawler for web scraping",
+  "version": "0.1",
+  "author": "Riccardo Genova",
+  "license": "MIT",
+  "engines": {
+    "npm": ">=6.x.x",
+    "node": "<10.x.x"
+  },
+  "dependencies": {
+    "puppeteer": "^1.8.0"
+  }
+}
